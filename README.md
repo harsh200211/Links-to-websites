@@ -28,4 +28,3 @@
 - 📘 [Value Addition Courses](https://vac.du.ac.in/dashboard.html)  
 
 ---
-✨ *Explore. Learn. Grow with DU resources!* ✨
